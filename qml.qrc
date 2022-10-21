@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DockableItem.qml</file>
+    </qresource>
+</RCC>
